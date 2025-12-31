@@ -73,7 +73,7 @@ npx playwright test src/lib/all.test.ts
 npx playwright test --grep "Successful login"
 
 # Run only tests with "invalid username" in the name
-npx playwright test --grep "invalid username"
+`npx playwright test --grep "invalid username"`
 
 # Run only tests with "invalid password" in the name
 npx playwright test --grep "invalid password"
