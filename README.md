@@ -1,6 +1,6 @@
 # Origami Take-Home Tests
 
-Automated end-to-end tests for the Origami application login functionality using Playwright and TypeScript.
+Automated end-to-end tests for the Origami assignment using Playwright and TypeScript.
 
 ## Project Overview
 
